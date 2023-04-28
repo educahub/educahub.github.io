@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #201f1f;
+  }
+
+  h1 {
+    margin-top: 7vh;
+    color: #ffffff;
+    font-size: 7vh;
+  }
+  #logo {
+    width: 230px;
+    margin: 0 auto;
+    padding-top: 4vh;
+    padding-bottom: 6vh;
+  }
+  p{
+    color: #ffffff;
+    font-size: 3vh;
+  }
+
+  a{
+    text-decoration: none;
+    font-size: 3vh;
+  }
